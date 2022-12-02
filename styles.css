@@ -1,1 +1,19 @@
+.bg-black {
+    background-color: black;
+}
 
+.bg-gray {
+    background-color: rgb(70, 70, 70);
+}
+
+.text-white {
+    color: white;
+}
+
+.h-6 {
+    height: 6rem;
+}
+
+.flex {
+    display: flex;
+}
